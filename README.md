@@ -2,10 +2,10 @@
 
 RMI-PROJECT
 
-* Technologies
+* Technologies:
 
    - Java Swing
    - Java RMI
-* Requirements
+* Requirements:
 
-- Java Development Kit (JDK):19 
+   - Java Development Kit (JDK):19 
